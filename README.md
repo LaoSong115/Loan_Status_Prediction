@@ -1,6 +1,6 @@
 # engr-ALDA-Fall2022-P12
 
-[P12_Prediction_LR.pdf](https://github.ncsu.edu/yjiang35/engr-ALDA-Fall2022-P12/blob/main/P12_Prediction_LR.pdf) is our final report.
+[P12_Prediction_LR.pdf]([https://github.ncsu.edu/yjiang35/engr-ALDA-Fall2022-P12/blob/main/P12_Prediction_LR.pdf](https://github.com/LaoSong115/Loan_Status_Prediction/blob/main/P12_Prediction_LR.pdf)) is our final report.
 
 [code/](https://github.ncsu.edu/yjiang35/engr-ALDA-Fall2022-P12/tree/main/code) includes 2 files with our models trainning by full/partial dataset.
 
